@@ -1,4 +1,4 @@
-<?php $pageTitle = "pengguna";
+<?php $pageTitle = "Home";
 include '../components/header.php';
 // include './components/header.php'; 
 include '../components/navbar.php';
